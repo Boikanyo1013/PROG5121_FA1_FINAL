@@ -1,11 +1,9 @@
 # PROG5121 FA1 – User Registration and Login System
 
 ### Student Information
-- **Name:** Boikanyo Xhanty
-- **Student No:** ST________
+- **Name:** Boikanyo Fari
 - **Module:** PROG5121 – Programming 1A
 - **Assessment:** Formative Assessment 1
-- **Lecturer:** [Add Lecturer Name]
 - **GitHub:** [@Boikanyo1013](https://github.com/Boikanyo1013)
 - **Repository:** [PROG5121_FA1_FINAL](https://github.com/Boikanyo1013/PROG5121_FA1_FINAL)
 
